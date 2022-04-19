@@ -10,7 +10,7 @@ int main()
         otpt();
         maxstud();
         newf();
-        cout << "\nVnz with 3 and 4 lvlakr: ";
+        cout << "\nVnz with 3 and 4 level of akreditation: ";
         otpt2();
         cout << "\nIf you want to continue program type + : "; cin >> s;        //визначенн€ к≥нц€ програми
     } while (s == '+');

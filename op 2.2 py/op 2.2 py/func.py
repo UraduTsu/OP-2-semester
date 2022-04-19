@@ -52,16 +52,18 @@ def rd(name):                               #функція для читанн�
 def maxstud():
     faknum = studnum = 0
     vnzname = ''
+    city = input("Enter city you want to check: ")
     fileout = open("file1.txt", "rb")
-    lst2 = rd("file1.txt")
+    lst2 = rd("file1.txt")  
     for i in lst2:
-        l = 1
-        for j in i.students:
-            if j > studnum:
-                studnum = j
-                vnzname = i.class2.vnzname
-                faknum = l
-            l += 1        
+        if city == i.class2.cityname:
+            l = 1
+            for j in i.students:
+                if j > studnum:
+                    studnum = j
+                    vnzname = i.class2.vnzname
+                    faknum = l
+                l += 1        
     print("The most num of students is on " + str(faknum) + " fakultet in " + vnzname + " vnz: " + str(studnum) + " students")
     fileout.close()
 
