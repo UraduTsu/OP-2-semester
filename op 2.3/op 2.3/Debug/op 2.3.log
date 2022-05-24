@@ -1,8 +1,12 @@
 ﻿  func.cpp
-C:\Users\VladoSsS\source\repos\op 2.3\op 2.3\func.cpp(35,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\VladoSsS\source\repos\op 2.3\op 2.3\func.cpp(38,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\VladoSsS\source\repos\op 2.3\op 2.3\func.cpp(48,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\VladoSsS\source\repos\op 2.3\op 2.3\func.cpp(51,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\VladoSsS\Documents\GitHub\OP-2-semester\op 2.3\op 2.3\func.cpp(35,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\VladoSsS\Documents\GitHub\OP-2-semester\op 2.3\op 2.3\func.cpp(38,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\VladoSsS\Documents\GitHub\OP-2-semester\op 2.3\op 2.3\func.cpp(48,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\VladoSsS\Documents\GitHub\OP-2-semester\op 2.3\op 2.3\func.cpp(51,21): warning C4018: '<': signed/unsigned mismatch
   op 2.3.cpp
+  textObject.cpp
+C:\Users\VladoSsS\Documents\GitHub\OP-2-semester\op 2.3\op 2.3\textObject.cpp(9,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\VladoSsS\Documents\GitHub\OP-2-semester\op 2.3\op 2.3\textObject.cpp(10,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\VladoSsS\Documents\GitHub\OP-2-semester\op 2.3\op 2.3\textObject.cpp(33,23): warning C4018: '<': signed/unsigned mismatch
   Generating Code...
-  op 2.3.vcxproj -> C:\Users\VladoSsS\source\repos\op 2.3\Debug\op 2.3.exe
+  op 2.3.vcxproj -> C:\Users\VladoSsS\Documents\GitHub\OP-2-semester\op 2.3\Debug\op 2.3.exe
