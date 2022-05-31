@@ -1,0 +1,15 @@
+int main {
+int mf = 15;
+int j = a;
+long c = j;
+short d = mf;
+char e = 'A';
+bool f = true;
+bool p = ! f;
+double h = 3.15;
+double ba = 9.16 / h;
+long long k = c;
+unsigned int l = d;
+bool mb = f;
+bool so ( p , f , ba );
+}
